@@ -100,6 +100,8 @@ docker compose logs cap-web
 | Coolify | Self-hosted PaaS deployments with `docker-compose.coolify.yml` |
 
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/PwpGcf)
+<a href="https://repocloud.io/details/Cap/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="40"></a>
+<a href="https://template.sealos.io/deploy?templateName=cap"><img src="https://raw.githubusercontent.com/labring-actions/templates/main/Deploy-on-Sealos.svg" alt="Deploy on Sealos" height="40"></a>
 
 For production, configure public URLs and replace the default secrets before exposing the deployment to the internet:
 
